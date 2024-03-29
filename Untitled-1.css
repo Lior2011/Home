@@ -1,0 +1,29 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: rgb(252, 252, 254);
+}
+
+p {
+    color: rgb(131, 216, 216);
+}
+
+body {
+    background-image: url('');
+  }
+
+
+.image-container {
+    display: inline-block;
+    text-align: center;
+    margin-right: 20px;
+  }
+  
+  .image-container img {
+    border-radius: 50%; /* Add a circular border to the images */
+  }
+  /*homepage*/
